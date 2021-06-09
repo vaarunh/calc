@@ -3,4 +3,13 @@
 Created with  _create-react-app_. See the  [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Try It Here
-C
+https://varunherlekar.github.io/calc/
+
+## Install
+
+    git clone https://github.com/varunherlekar/calc.git 
+
+    npm install
+## Usage
+
+    npm start
