@@ -116,7 +116,7 @@ function fraction(){
 
           <button id="rand" className="highlight" onClick={rand}>Rand</button>
           <button id ="exp" className="highlight" onClick={exp}>exp</button>
-          <button className="highlight" onClick={clear} id="clear">clear</button>
+          <button className="highlight" onClick={clear} id="clear">Reset</button>
           <button name="(" onClick={handleclick}>(</button>
           <button name=")" onClick={handleclick}>)</button>
           <button className="highlight" onClick={backspace}>
@@ -168,7 +168,7 @@ function fraction(){
         </div>
 
       </div>
-      <h1 className="h12">Designed by <a rel="noreferrer" target="_blank" href="https://github.com/varunherlekar/calculator">Varun Herlekar</a></h1>
+      <h1 className="h12">Designed by <a rel="noreferrer" target="_blank" href="https://github.com/varunherlekar/calculator">Varun Herlekar</a>Founder of Code Cubicals</h1>
 
     </>
   );
