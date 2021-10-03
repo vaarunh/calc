@@ -9,12 +9,15 @@ Created with  _create-react-app_. See the  [full create-react-app guide](https:/
 https://varunherlekar.github.io/calc/
 
 ## Install
-  -Fork the repository
+  Fork the repository
 
-  Run these commands on terminal
-  -git clone https://github.com/varunherlekar/calc.git 
-  -cd calc
-  -npm install
+  -Run these commands on terminal-
+
+  git clone https://github.com/varunherlekar/calc.git 
+
+  cd calc
+
+  npm install
 ## Usage
 
   -npm start
