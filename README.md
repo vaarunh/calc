@@ -12,7 +12,7 @@ A simple calculator which will help you calculate large calculations in a second
   
 ## Screenshots
 
-![App Screenshot](Capture.png)
+![App Screenshot](Capture.PNG)
 
   
 ## Tech Stack
